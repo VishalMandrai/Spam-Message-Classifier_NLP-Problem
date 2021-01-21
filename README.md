@@ -1,16 +1,18 @@
 # <center>Spam SMS Classifier - NLP Problem</center>
 
-<div align=”center”>
-<h1> Loan Approval Predictor : ML Based Web App</h1>
-</div>
+--- 
 
-![Loan-title](https://user-images.githubusercontent.com/72686156/103457669-37ca4c00-4d27-11eb-9c9b-56b3536c2bde.jpg)
+<p><h3> SMS spam is any unwanted or unsolicited text message sent indiscriminately to your mobile phone, often for commercial purposes. It can take the form of a simple message, a link to a number to call or text, a link to a website for more information or a link to a website to download an application.<.h3></p> <br><br>
+  
+![spam_sms 2](https://user-images.githubusercontent.com/72686156/105334581-0e516180-5bfd-11eb-9e43-e45961692e44.png)
 
-<p><h3> With the advancement in the financial sector, loads of individuals are applying for bank loans but the bank has restricted resources which can be passed on to limited individuals only, so discovering to whom the loan can be allowed will be a more secure alternative for the bank is a regular cycle. <br><br>
-So, we will be trying to lessen this danger factor behind, by choosing the safe individual in order to save significant bank’s efforts and resources. This is done by mining the Enormous information from the past records of the individuals to whom the loan was granted previously. Based on these records ML Model is created which gives the most favourable outcome. 
+<h3><p>We all face the problem of spams in our inboxes. Let’s build a spam classifier program in python which can tell whether a given message is spam or not! We can do this by using a simple, yet powerful theorem from probability theory called Naïve Bayesian Classifier. 
 </h3></p>
 
-<hr>
+<img width="250" alt="spam_sms 1" src="https://user-images.githubusercontent.com/72686156/105334855-5b353800-5bfd-11eb-93ea-27d3780af15f.png">
+
+
+--- 
 
 <p><h3> Some glimpse of the Web App: </h3></p>
 
