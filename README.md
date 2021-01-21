@@ -2,7 +2,7 @@
 
 --- 
 
-<p><h3> SMS spam is any unwanted or unsolicited text message sent indiscriminately to your mobile phone, often for commercial purposes. It can take the form of a simple message, a link to a number to call or text, a link to a website for more information or a link to a website to download an application.<.h3></p> <br><br>
+<p><h3> SMS spam is any unwanted or unsolicited text message sent indiscriminately to your mobile phone, often for commercial purposes. It can take the form of a simple message, a link to a number to call or text, a link to a website for more information or a link to a website to download an application.</h3></p>
   
 ![spam_sms 2](https://user-images.githubusercontent.com/72686156/105334581-0e516180-5bfd-11eb-9e43-e45961692e44.png)
 
